@@ -1,4 +1,4 @@
-BombucksBot.py![hq720](https://github.com/user-attachments/assets/c8e0db5b-40a6-4b9f-9424-eb595bce27e7)
+okBombucksBot.py![hq720](https://github.com/user-attachments/assets/c8e0db5b-40a6-4b9f-9424-eb595bce27e7)
 
 # 1Win Autofarm Bot
 
@@ -56,3 +56,4 @@ We welcome contributions to improve the **1Win Autofarm Bot**! Here's how you ca
 1. Fork the repository.
 2. Create a feature branch.
 3. Submit a pull request with your changes.
+4.automatisé le Bot 🤖 Bombucks 
