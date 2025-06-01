@@ -1,4 +1,4 @@
-![hq720](https://github.com/user-attachments/assets/c8e0db5b-40a6-4b9f-9424-eb595bce27e7)
+BombucksBot.py![hq720](https://github.com/user-attachments/assets/c8e0db5b-40a6-4b9f-9424-eb595bce27e7)
 
 # 1Win Autofarm Bot
 
