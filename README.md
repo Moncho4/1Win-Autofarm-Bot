@@ -56,3 +56,4 @@ We welcome contributions to improve the **1Win Autofarm Bot**! Here's how you ca
 1. Fork the repository.
 2. Create a feature branch.
 3. Submit a pull request with your changes.
+git commit -m "Premier commit du bot Bombucks"
